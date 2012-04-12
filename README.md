@@ -3,7 +3,7 @@ Ruby+Phidgets
 
 * Ruby 1.8.7+
 * Mac OSX
-* Phidgets
+* [Phidgets](http://www.phidgets.com)
 
 Install Dependencies
 --------------------
